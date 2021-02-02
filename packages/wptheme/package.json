@@ -1,10 +1,10 @@
 {
   "name": "@walnut/wptheme",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "private": true,
-  "dependencies" : {
-    "@walnut/design": "1.0.0"
+  "dependencies": {
+    "@walnut/design": "^2.0.0"
   },
   "scripts": {
     "test": "echo testing wptheme  with version $npm_package_version"
