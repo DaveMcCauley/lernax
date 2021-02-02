@@ -1,10 +1,10 @@
 {
   "name": "@walnut/server",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "main": "index.js",
   "private": true,
   "dependencies": {
-    "@walnut/design": "^2.0.0"
+    "@walnut/design": "^3.0.0"
   },
   "scripts": {
     "test": "echo testing server with version $npm_package_version"
