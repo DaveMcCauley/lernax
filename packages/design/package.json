@@ -1,0 +1,15 @@
+{
+  "name": "@walnut/design",
+  "version": "2.5.0",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "@walnut/design": "1.0.0"
+  },
+  "scripts": {
+    "test": "echo testing design  with version $npm_package_version"
+  },
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}

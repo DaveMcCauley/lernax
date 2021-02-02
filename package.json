@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "lerna run test",
+    "test:design": "lerna run test --scope=@walnut/design",
+    "test:wptheme": "lerna run test --scope={@walnut/design,@walnut/wptheme}",
+    "new-version": "lerna version --conventional-commits --yes",
+    "diff": "lerna diff"
+  },
+  "name": "lernax",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
