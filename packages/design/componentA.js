@@ -1,4 +1,4 @@
 
 module.exports = function () {
-  console.log("I'm a design component!!");
+  console.log("I'm a design component Alpha!!");
 };

@@ -1,3 +1,5 @@
-const { componentA } = require('@walnut/design');
+ const { componentA } = require('@walnut/design');
 
 componentA();
+console.log("yuuup");
+
